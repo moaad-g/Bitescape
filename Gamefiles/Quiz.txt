@@ -1,0 +1,60 @@
+How many bits in a byte?
+1
+4
+!8
+Which is a form of secondary storage?
+!SSD
+RAM
+ROM
+What is CPU clock speed measured in?
+Metres
+Seconds
+!Ghz
+How many Megabytes in a Gigabyte?
+124
+!1240
+124
+Which of these is found INSIDE the CPU?
+RAM
+!CIR
+Calculator
+What is the 4-bit binary value for 3?
+0123
+1010
+!0011
+What is the 4-bit binary value for 15?
+!1111
+1110
+1000
+What is the 4-bit binary value for 10?
+0001
+!1010
+1000
+What should be used for text-file compression
+!Lossless
+Lossy
+Both
+Which of these is fastest storage type?
+Magnetic
+!Solid State
+Optical
+1 OR 1 gives you?
+!1
+2
+0
+1 XOR 1 gives you?
+1
+!0
+2
+0 AND 1 gives you?
+1
+11
+!0
+If A is 41 in Unicode what is E?
+50
+!45
+42
+What should be used for a music-file compression?
+Lossless
+!Lossy
+Heavy
